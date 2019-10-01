@@ -6,10 +6,14 @@ Description of project
 
 ### Getting started
 This is basic HTML/CSS/Javascript build.
+[Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn).
+
 
 ### Prerequisities
 
 ## authors(team members)
+1. Deepkumar patel
+2. sarthak shah
 
 ## License
 This project is licensed under the MIT license.
