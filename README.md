@@ -1,4 +1,4 @@
-![Marvel Universe](marvel_banner.png "The MCU")
+![Philadelphia's Magic Gardens. This place was so cool!](marvel_banner.png "Philadelphia's Magic Gardens")
 
 # A retrospective of phase one of the mcu
 
