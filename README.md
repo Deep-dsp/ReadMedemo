@@ -1,4 +1,3 @@
-![Philadelphia's Magic Gardens. This place was so cool!](marvel_banner.png
- "The MCU")
+![Marvel Universe](marvel_banner.png "The MCU")
 
 # ReadMedemo
